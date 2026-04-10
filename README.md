@@ -12,7 +12,7 @@
 ### Session Content
 
 1. Slides [ PDF : https://github.com/raviranjan0309/mit-rag-2026/blob/main/RAG%20Workshop%20-%20MIT.pdf ]
-2. Code -  RAG on unstructured data [ [] ]
+2. Code -  RAG on unstructured data [ [https://github.com/raviranjan0309/mit-rag-2026/tree/main/code] ]
 
 
 --- 
