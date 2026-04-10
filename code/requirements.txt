@@ -1,0 +1,27 @@
+# RAG Workshop — Python Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core LangChain
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langchain-community>=0.3.0
+
+# LLM Provider
+openai>=1.50.0
+
+# Vector Store
+chromadb>=0.5.0
+
+# Document Loaders
+pypdf>=4.0.0
+
+# Tokenization
+tiktoken>=0.7.0
+
+# Evaluation (Module 3)
+ragas>=0.2.0
+datasets>=2.20.0
+
+# Advanced Retrieval (Module 3)
+sentence-transformers>=3.0.0
+rank_bm25>=0.2.2
